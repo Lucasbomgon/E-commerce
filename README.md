@@ -1,0 +1,22 @@
+# E-commerce API
+
+Projeto de estudos para construir um sistema de e-commerce com ASP.NET Core Web API.
+
+## Tecnologias
+
+- ASP.NET Core Web API
+- Entity Framework Core
+- MySQL
+- JWT
+
+## Funcionalidades planejadas
+
+- Cadastro e login de usuarios
+- Cadastro e consulta de produtos e categorias
+- Carrinho de compras
+- Finalizacao de pedidos
+- Historico de pedidos por usuario
+
+## Status
+
+Parte 1: estrutura inicial da API criada.
