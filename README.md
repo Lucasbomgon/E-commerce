@@ -30,3 +30,4 @@ Atualize a connection string em `appsettings.json` conforme seu MySQL local:
 Parte 1: estrutura inicial da API criada.
 Parte 2: entidades e contexto do Entity Framework Core configurados.
 Parte 3: cadastro e login com JWT implementados.
+Parte 4: endpoints de produtos e categorias implementados.
