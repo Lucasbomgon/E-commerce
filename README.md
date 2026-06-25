@@ -11,7 +11,7 @@ Projeto de estudos para construir um sistema de e-commerce com ASP.NET Core Web 
 
 ## Funcionalidades planejadas
 
-- Cadastro e login de usuarios
+- Cadastro e login de usuarios com JWT
 - Cadastro e consulta de produtos e categorias
 - Carrinho de compras
 - Finalizacao de pedidos
@@ -29,3 +29,4 @@ Atualize a connection string em `appsettings.json` conforme seu MySQL local:
 
 Parte 1: estrutura inicial da API criada.
 Parte 2: entidades e contexto do Entity Framework Core configurados.
+Parte 3: cadastro e login com JWT implementados.
