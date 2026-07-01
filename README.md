@@ -32,3 +32,4 @@ Parte 2: entidades e contexto do Entity Framework Core configurados.
 Parte 3: cadastro e login com JWT implementados.
 Parte 4: endpoints de produtos e categorias implementados.
 Parte 5: carrinho de compras autenticado implementado.
+Parte 6: checkout e historico de pedidos implementados.
